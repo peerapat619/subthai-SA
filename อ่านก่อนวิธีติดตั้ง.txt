@@ -1,0 +1,16 @@
+ใช้  gtasa-open-downgrader ของคุณ xxanqw
+ในการดาวน์เกรด ให้เป็น เวอร์ชั้น gta_sa.exe 1.0 US
+ดาวน์โหลดได้จาก ลิ้งนี้ https://dwngrdr.xxanqw.me/
+
+เปิดโปรเเกรม โปรเเกรมจะให้ติดตั้งส่วนประกอบจำเป็น มองหัวข้อ Essential Modifications 
+ติดถูก ASI loader(1.3) 
+Modloder(v.0.3.10) 
+SilemtPatch (1.1 -BuILD34.1-SA)
+(widescreen Fixes)
+
+เเล้วกด START DOWNGRADE
+พอเสร็จขึ้น Mod installation complete. ปิดได้เลย 
+
+กลับมาที่โฟเดอร์ GTASA_Thai_Subtitles
+กด INSTALL.bat รอให้ cmd ลันโปรเเกรมเองให้เสร็จเเล้วกดปุม Enter ปิดได้เลย
+เเล้วลองเปิดเกม

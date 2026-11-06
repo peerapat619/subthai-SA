@@ -1,0 +1,148 @@
+{
+  "package": "GTASA_Thai_Subtitles",
+  "version": "1.0.5",
+  "built": "2026-10-31 01:28:51",
+  "game": "GTA San Andreas (classic, gta-sa.exe 1.0 US)",
+  "rows": 16615,
+  "files": {
+    "vorbisFile.dll": {
+      "size": 2375680,
+      "sha256": "a15ce636eea7747fd8f3273e97d0f8b7eca20d44002c6895d82d5fec61116282"
+    },
+    "EasyGXT.SA.asi": {
+      "size": 324096,
+      "sha256": "a531e958da4281ed8a60effad7fece0e22dfa991be87a3df2d43556d2cc2f68b"
+    },
+    "EasyFont.SA.asi": {
+      "size": 730112,
+      "sha256": "a56f82c9f2bf19b22f013189ea3b92f10844cb2403fa12ed834260281d4d76ff"
+    },
+    "charlesvercetti_mods/EasyGXT/easygxt.ini": {
+      "size": 210,
+      "sha256": "375c54e449f8fedee77b719046d99bde73e2b420ac724724290ec59a32bbf65a"
+    },
+    "charlesvercetti_mods/EasyGXT/gxt.csv": {
+      "size": 6972068,
+      "sha256": "aa84bc9f29b19790a7bd8927ee9f90f9f5cffa459afa178540a534780539bfee"
+    },
+    "charlesvercetti_mods/EasyFont/font_ttf.ini": {
+      "size": 4160,
+      "sha256": "435ab280022a78099387ab64de99115aa180c6f89020c0b863e81dd646fd61b7"
+    },
+    "charlesvercetti_mods/EasyFont/font_styles.ini": {
+      "size": 2813,
+      "sha256": "b0721ef9abf934f8be38c35ac200b6356b4b7070d95689b1609c8d97eb30f087"
+    },
+    "charlesvercetti_mods/EasyFont/pc_buttons.txd": {
+      "size": 395140,
+      "sha256": "51de6f443d154e1979214a2229c329fead822d6001efcd895bca0463646b6e89"
+    },
+    "charlesvercetti_mods/EasyFont/symbols.txd": {
+      "size": 168988,
+      "sha256": "a80ef4ca208f895b28c21e075e08f995e3342adde5e06eb3849abb8c65a19b31"
+    },
+    "charlesvercetti_mods/EasyFont/xbox_buttons.txd": {
+      "size": 169240,
+      "sha256": "3277f8f62091466c0c51cc756ef8743e79019138c9b6f03e2dd41935e9cf14a2"
+    },
+    "ChulabhornLikitText-Regular.ttf": {
+      "size": 796956,
+      "sha256": "4099cddac328bda840bc38d7c404e6517d4b9203f07691fa6d935b6f4d3af297"
+    },
+    "ChulabhornLikitText-Bold.ttf": {
+      "size": 783340,
+      "sha256": "6e77e64b644eb4e13f9f0f71a52cc10b96904e468e89c2cb0d4ffbe9cfddcdda"
+    },
+    "charlesvercetti_mods/EasyFont/fonts/Alte DIN 1451 Mittelschrift.ttf": {
+      "size": 52208,
+      "sha256": "3cdbdd35c7637ff4a15d22bdcb8b952f48afadd2e41edb5ab29d80eaad8d48fd"
+    },
+    "charlesvercetti_mods/EasyFont/fonts/Arial Black Italic.ttf": {
+      "size": 65544,
+      "sha256": "9b497725828254571b7a7f1595e5c54d9b81fcb32109d2768109da4d68024c9c"
+    },
+    "charlesvercetti_mods/EasyFont/fonts/BankGothic Bold.ttf": {
+      "size": 44439,
+      "sha256": "c3d11e882461f1f6ef10b672ec1a1bf8c50a090fb3a3bb67c4c207abbf7e12ec"
+    },
+    "charlesvercetti_mods/EasyFont/fonts/Beckett Regular.ttf": {
+      "size": 60908,
+      "sha256": "a0b0d6026833f7f91573c9cb11057a80722e3b5619fb76b4d9c38011144ed76c"
+    },
+    "charlesvercetti_mods/EasyFont/fonts/Chalet-LondonNineteenSixty.ttf": {
+      "size": 61592,
+      "sha256": "4483166fd11ce7d5b5abbb9bbfca84a01600dba40bec7aafe77311c4de40bfcd"
+    },
+    "charlesvercetti_mods/EasyFont/fonts/ChaletComprime-CologneSixtyScale.ttf": {
+      "size": 61436,
+      "sha256": "84c1ca00bdb297efc5f32f022fb985cd0c021ae7e3b3c322e3190e45c11c1db6"
+    },
+    "charlesvercetti_mods/EasyFont/fonts/ChulabhornLikitText-Bold.ttf": {
+      "size": 783340,
+      "sha256": "6e77e64b644eb4e13f9f0f71a52cc10b96904e468e89c2cb0d4ffbe9cfddcdda"
+    },
+    "charlesvercetti_mods/EasyFont/fonts/ChulabhornLikitText-Regular.ttf": {
+      "size": 796956,
+      "sha256": "4099cddac328bda840bc38d7c404e6517d4b9203f07691fa6d935b6f4d3af297"
+    },
+    "charlesvercetti_mods/EasyFont/fonts/Determination.ttf": {
+      "size": 150948,
+      "sha256": "5bb392076437ffba76237712904d5d91acb8624cd3215a4b6ae93400b8210514"
+    },
+    "charlesvercetti_mods/EasyFont/fonts/Eurostile-Bold Regular.ttf": {
+      "size": 25352,
+      "sha256": "91e885b1ef2deef4084cc2a4825ebed5be14627c772871fb98d6b195f5cf5b97"
+    },
+    "charlesvercetti_mods/EasyFont/fonts/FuturaLT Bold.ttf": {
+      "size": 22304,
+      "sha256": "d157d0a4414510e0d82ca5257f85133bc2b9ac32dd5ddb4622afe546ccd739aa"
+    },
+    "charlesvercetti_mods/EasyFont/fonts/Geneva Bold.ttf": {
+      "size": 42392,
+      "sha256": "e6e0ace560afccb9385685e0152b77bce82b8c84117a528da7cb378b6ff259e7"
+    },
+    "charlesvercetti_mods/EasyFont/fonts/GENEVA.TTF": {
+      "size": 37708,
+      "sha256": "75b11449ad5bfe0668ef52f5c62ad18267743a6edea027b2f7be9fd94725a9a4"
+    },
+    "charlesvercetti_mods/EasyFont/fonts/HelveticaNeue Heavy.ttf": {
+      "size": 39568,
+      "sha256": "74334977c8bc94e3b34d1ef9aa0054516a55b0355843164aca65894ac62dd5d9"
+    },
+    "charlesvercetti_mods/EasyFont/fonts/PricedownGTAV.TTF": {
+      "size": 52888,
+      "sha256": "a28af41120b411e609b30081a938741e25d5c570595e44c6614264bc893afe51"
+    },
+    "charlesvercetti_mods/EasyFont/fonts/Rage Italic.TTF": {
+      "size": 132600,
+      "sha256": "4e06cfa893f7e1e656709ac2cc240cf17cc82da9fb8df1afbf689940e47c0cfd"
+    },
+    "charlesvercetti_mods/EasyFont/fonts/SF Arborcrest Heavy.ttf": {
+      "size": 50048,
+      "sha256": "283e7165d90f7c36efd9dc044c9dfb1e6790a189266c85326cc81c334b91ce3b"
+    },
+    "charlesvercetti_mods/EasyFont/fonts/SignPainter-HouseScript.ttf": {
+      "size": 142584,
+      "sha256": "cc3660faf0d6129d650131f6e2dbd08dfb46d601b41839ef538506298316aa96"
+    },
+    "charlesvercetti_mods/EasyFont/fonts/HelveticaNeue-MediumCond.otf": {
+      "size": 17996,
+      "sha256": "a9ad3c95290b3b7a9fa8e106aa8c442c629a1e732f26989455629f18d9f114b2"
+    },
+    "scripts/GTASA.WidescreenFix.asi": {
+      "size": 958976,
+      "sha256": "31247defdde4dc496a506b5361854423cce88980e10fb1dac1cf25fb7c5c0161"
+    },
+    "scripts/GTASA.WidescreenFix.ini": {
+      "size": 1601,
+      "sha256": "07d8ef3149ec2c82b1a087c525fa63e42c6c4840076192ebe2990a66c387a4b4"
+    }
+  },
+  "changes": [
+    "1.0.5 (2026-10-31): Ctrl hitch - the payload already had ReloadKey=0 since 1.0.4, but an older package or a backup restore could put 162 (VK_LCONTROL) back. INSTALL.ps1 now reads font_ttf.ini after copying and fails if a font-reload hotkey is still bound. Payload files are unchanged.",
+    "1.0.4 (2026-10-31): fixed the game freezing for a moment on every Ctrl press. charlesvercetti_mods/EasyFont/font_ttf.ini had ReloadKey=162 and 162 is VK_LCONTROL (left Ctrl) - EasyFont is the only plugin in the package that polls the keyboard, and that key made it reload the whole font set on every press. ReloadKey is now 0 (hotkey disabled). Both EasyFont/EasyGXT INI files were also malformed (doubled CR at every line end plus hundreds of blank lines) and are rebuilt as normal CRLF; no other setting changed. Payload hashes updated.",
+    "1.0.2 (2026-10-31): GTASA.WidescreenFix is bundled and installed with the mod - scripts/GTASA.WidescreenFix.asi + .ini (authentic 4:3 -> widescreen HUD) and the Ultimate ASI Loader is now shipped as vorbisFile.dll (it loads plugins from both the game folder and the scripts subfolder). Duplicate modloader\\WidescreenFix copies are detected and reported by the installer.",
+    "1.0.1 (2026-10-30): EasyGXT.SA.asi patched - the plugin's '%s missing' fallback string is emptied, so unresolved GXT lookups render as blank text again (fixes the word 'missing' printed down the right side of every pause-menu row). Payload hash updated.",
+    "1.0 (2026-10-30): first package - 16,615-row Thai gxt.csv, EasyFont + EasyGXT payload, backup and uninstall support."
+  ]
+}
